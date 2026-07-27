@@ -1,0 +1,35 @@
+QueenVIS
+Copyright (c) 2026, Arian Kheirandish. All rights reserved.
+
+QueenVIS contains modifications and additions by Arian Kheirandish and the
+QueenVIS authors. These notices apply only to their contributions and do not
+remove, replace, or narrow any upstream copyright or license notice.
+
+GOVERNING REPOSITORY LICENSE
+
+QueenVIS is derived substantially from MinVIS:
+https://github.com/NVlabs/MinVIS
+
+MinVIS is Copyright (c) 2022, NVIDIA Corporation & Affiliates. Unless a file
+states separate terms, this distribution remains subject to the NVIDIA Source
+Code License-NC reproduced in the top-level LICENSE file. In particular, that
+license restricts use to non-commercial research or evaluation purposes.
+
+VISAGE-DERIVED COMPONENTS
+
+The convert_coco2ytvis.py utility, data-loading code under queenvis/data_video/,
+and memory-bank code in queenvis/video_maskformer_model.py contain code adapted from VISAGE:
+https://github.com/KimHanjung/VISAGE
+
+VISAGE is distributed under the Apache License, Version 2.0. A copy is in
+LICENSES/Apache-2.0.txt. Modified files carry prominent adaptation notices.
+
+OTHER THIRD-PARTY COMPONENTS
+
+This repository also contains or derives from code from Mask2Former, VITA,
+Detectron2, IFC, Deformable-DETR, Swin Transformer, and the YouTube-VOS COCO
+API. Their original notices are retained in source files where present.
+Applicable license copies and source links are documented in
+THIRD_PARTY_LICENSES.md and LICENSES/.
+
+This NOTICE is informational. It does not modify any applicable license.
