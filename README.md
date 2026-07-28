@@ -76,11 +76,14 @@ Checkpoint release terms will be stated when checkpoints are published.
 If you use QueenVIS, please cite the paper:
 
 ```bibtex
-@misc{kheirandish2026queenvis,
-  title  = {QueenVIS: Rethinking Image-Only Training for Video Instance Segmentation via Query Enrichment},
-  author = {Arian Kheirandish and Fardin Ayar and Ehsan Javanmardi and Manabu Tsukada and Mahdi Javanmardi},
-  year   = {2026},
-  note   = {Preprint}
+@misc{kheirandish2026queenvisrethinkingimageonlytraining,
+      title={QueenVIS: Rethinking Image-Only Training for Video Instance Segmentation via Query Enrichment}, 
+      author={Arian Kheirandish and Fardin Ayar and Ehsan Javanmardi and Manabu Tsukada and Mahdi Javanmardi},
+      year={2026},
+      eprint={2607.24598},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2607.24598}, 
 }
 ```
 
