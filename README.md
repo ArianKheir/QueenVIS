@@ -4,7 +4,7 @@
 
 Official implementation of **QueenVIS**, an image-trained video instance segmentation framework that enriches transformer object queries with appearance and spatial supervision while avoiding video-clip training.
 
-**Paper:** coming soon | **Model Zoo:** [release placeholders](MODEL_ZOO.md) | [[`Project Page`](https://aut-aisl.github.io/QueenVIS-Project-Page/) | [`BibTeX`](#citation)
+[[`arXiv`](https://arxiv.org/abs/2607.24598)]  | **Model Zoo:** [release placeholders](MODEL_ZOO.md) | [[`Project Page`](https://aut-aisl.github.io/QueenVIS-Project-Page/) | [`BibTeX`](#citation)
         
 ## Architecture
 
